@@ -5,7 +5,6 @@
 
         public void Initialize()
         {
-            WindowDisplay.RunWindow();
         }
 
         public void Terminate()
